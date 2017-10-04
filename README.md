@@ -1,3 +1,2 @@
 # hello-world
-student
-I'm rock!
+student PNRPU
